@@ -1,0 +1,10 @@
+body {
+	background-color: #B2FD46;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+p {
+	font-size: 20px;
+}
+.link {
+	color: black;
+}
